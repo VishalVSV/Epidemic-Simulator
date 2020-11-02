@@ -1,0 +1,12 @@
+population			=709000
+
+infected			=7
+
+infectivity			=0.9
+contact_no			=10
+incubation_period		=240
+fatality_rate			=0.002
+avg_hospitalisation_period	=336
+reinfection_rate		=0.14
+curability			=0.70
+hospitalisation_rate		=0.2
